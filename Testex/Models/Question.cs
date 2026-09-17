@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Text.Json.Serialization;
 
 namespace Testex.Models
 {
@@ -12,41 +13,18 @@ namespace Testex.Models
         private List<string> _rightAnswers;
 
         public Guid Id { get; }
-        public string text { get { return _text; } set { _text = value; } }
-        public bool questionOpen { get { return _questionOpen;  } set { _questionOpen = value; } }
-        public List<string> answers { get { return answers; } set { answers = value; } }
+        public string Text { get { return _text; } set { _text = value; } }
+        public bool QuestionOpen { get { return _questionOpen; } set { _questionOpen = value; } }
+        public List<string> Answers { get { return _answers; } set { _answers = value; } }
+        public List<string> RightAnswers { get { return _rightAnswers; } set { _rightAnswers = value; } }
 
-        public Question(string text, List<string> answers, List<string> rightAnswers)
-        {
-            Id = Guid.NewGuid();
-            _questionOpen = false;
-            _text = text;
-            _answers = answers;
-            _rightAnswers = rightAnswers;
-        }
-
-        public Question(string text, List<string> rightAnswers)
-        {
-            Id = Guid.NewGuid();
-            _questionOpen = true;
-            _text = text;
-            _rightAnswers = rightAnswers;
-        }
-
-        public Question(Guid id, string text, List<string> answers, List<string> rightAnswers)
+        [JsonConstructor]
+        public Question(Guid id, string text, List<string> rightAnswers, List<string> answers = null, bool questionOpen = false)
         {
             Id = id;
-            _questionOpen = false;
+            _questionOpen = questionOpen;
             _text = text;
-            _answers = answers;
-            _rightAnswers = rightAnswers;
-        }
-
-        public Question(Guid id, string text, List<string> rightAnswers)
-        {
-            Id = id;
-            _questionOpen = true;
-            _text = text;
+            _answers = answers ?? new List<string>();
             _rightAnswers = rightAnswers;
         }
 

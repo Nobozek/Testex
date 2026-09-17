@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Egzamin\\Desktop\\06291105251\\Testex\\Testex\\Testex.csproj": {}
+    "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\Testex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Egzamin\\Desktop\\06291105251\\Testex\\Testex\\Testex.csproj": {
+    "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\Testex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Egzamin\\Desktop\\06291105251\\Testex\\Testex\\Testex.csproj",
+        "projectUniqueName": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\Testex.csproj",
         "projectName": "Testex",
-        "projectPath": "C:\\Users\\Egzamin\\Desktop\\06291105251\\Testex\\Testex\\Testex.csproj",
-        "packagesPath": "C:\\Users\\Egzamin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Egzamin\\Desktop\\06291105251\\Testex\\Testex\\obj\\",
+        "projectPath": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\Testex.csproj",
+        "packagesPath": "C:\\Users\\granm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Egzamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\granm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0-android": {
@@ -74,21 +74,17 @@
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[10.0.12, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.101, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.11, )",
+              "version": "[10.0.9, )",
               "autoReferenced": true
-            },
-            "SQLitePCLRaw.core": {
-              "target": "Package",
-              "version": "[3.0.5, )"
             }
           },
           "imports": [
@@ -113,7 +109,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -395,21 +391,17 @@
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[10.0.12, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.101, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.11, )",
+              "version": "[10.0.9, )",
               "autoReferenced": true
-            },
-            "SQLitePCLRaw.core": {
-              "target": "Package",
-              "version": "[3.0.5, )"
             }
           },
           "imports": [
@@ -434,7 +426,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -716,21 +708,17 @@
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[10.0.12, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.101, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.11, )",
+              "version": "[10.0.9, )",
               "autoReferenced": true
-            },
-            "SQLitePCLRaw.core": {
-              "target": "Package",
-              "version": "[3.0.5, )"
             }
           },
           "imports": [
@@ -756,7 +744,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1038,15 +1026,11 @@
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[10.0.12, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
-            },
-            "SQLitePCLRaw.core": {
-              "target": "Package",
-              "version": "[3.0.5, )"
+              "version": "[10.0.101, )"
             }
           },
           "imports": [
@@ -1074,7 +1058,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

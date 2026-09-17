@@ -1,0 +1,1386 @@
+[
+  {
+    "id": "3ccf5ded-d9d6-4105-a8fa-039344800859",
+    "text": "Kto zdobył pierwsze mistrzostwo świata Formuły 1 w 1950 roku?",
+    "questionOpen": false,
+    "answers": [
+      "Giuseppe Farina",
+      "Juan Manuel Fangio",
+      "Alberto Ascari",
+      "Luigi Fagioli"
+    ],
+    "rightAnswers": [
+      "Giuseppe Farina"
+    ]
+  },
+  {
+    "id": "148060ae-e754-4202-a2b4-5d019079a2ec",
+    "text": "W którym roku odbył się pierwszy wyścig o mistrzostwo świata Formuły 1?",
+    "questionOpen": false,
+    "answers": [
+      "1948",
+      "1950",
+      "1952",
+      "1955"
+    ],
+    "rightAnswers": [
+      "1950"
+    ]
+  },
+  {
+    "id": "a0efccd1-c8ba-4c3e-8ad7-9dcfc0238a86",
+    "text": "Na jakim torze odbył się pierwszy wyścig mistrzostw świata F1 w 1950 roku?",
+    "questionOpen": false,
+    "answers": [
+      "Monza",
+      "Silverstone",
+      "Spa-Francorchamps",
+      "Monako"
+    ],
+    "rightAnswers": [
+      "Silverstone"
+    ]
+  },
+  {
+    "id": "91d234c4-5bfa-4e5e-870a-c64a88bff95e",
+    "text": "Ilu tytułów mistrza świata zdobył Michael Schumacher?",
+    "questionOpen": false,
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "rightAnswers": [
+      "7"
+    ]
+  },
+  {
+    "id": "b2907ac1-a22a-4a72-97bf-76716db23161",
+    "text": "Ilu tytułów mistrza świata zdobył Lewis Hamilton (stan na koniec sezonu 2024)?",
+    "questionOpen": false,
+    "answers": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "rightAnswers": [
+      "7"
+    ]
+  },
+  {
+    "id": "6d8adc03-7110-4d2e-b242-ddccdaa64d74",
+    "text": "Który kierowca jako pierwszy zdobył 5 tytułów mistrzowskich?",
+    "questionOpen": false,
+    "answers": [
+      "Juan Manuel Fangio",
+      "Michael Schumacher",
+      "Alain Prost",
+      "Ayrton Senna"
+    ],
+    "rightAnswers": [
+      "Juan Manuel Fangio"
+    ]
+  },
+  {
+    "id": "4b4ae111-645c-4627-9641-df3a16a37788",
+    "text": "Z jakiego kraju pochodzi zespół Ferrari?",
+    "questionOpen": false,
+    "answers": [
+      "Włochy",
+      "Niemcy",
+      "Francja",
+      "Hiszpania"
+    ],
+    "rightAnswers": [
+      "Włochy"
+    ]
+  },
+  {
+    "id": "e69034cd-c963-4d5d-b115-0fb56e39cc41",
+    "text": "Z jakiego kraju pochodzi zespół Red Bull Racing?",
+    "questionOpen": false,
+    "answers": [
+      "Austria",
+      "Niemcy",
+      "Anglia",
+      "Szwajcaria"
+    ],
+    "rightAnswers": [
+      "Austria"
+    ]
+  },
+  {
+    "id": "3fd62dcf-2c3d-41af-a920-a5496efd0471",
+    "text": "Jak nazywa się tor, na którym rozgrywany jest Grand Prix Monako?",
+    "questionOpen": false,
+    "answers": [
+      "Circuit de Monaco",
+      "Circuit Paul Ricard",
+      "Circuit de Spa-Francorchamps",
+      "Autodromo Nazionale Monza"
+    ],
+    "rightAnswers": [
+      "Circuit de Monaco"
+    ]
+  },
+  {
+    "id": "023affd8-7baa-4eef-a51d-12b0f11aef2e",
+    "text": "Na którym torze rozgrywany jest nocny wyścig Grand Prix Singapuru?",
+    "questionOpen": false,
+    "answers": [
+      "Marina Bay Street Circuit",
+      "Yas Marina Circuit",
+      "Bahrain International Circuit",
+      "Losail International Circuit"
+    ],
+    "rightAnswers": [
+      "Marina Bay Street Circuit"
+    ]
+  },
+  {
+    "id": "e29afd80-1f54-488d-a7aa-070e3e225337",
+    "text": "Jak nazywa się system redukcji oporu powietrza używany do ułatwienia wyprzedzania?",
+    "questionOpen": false,
+    "answers": [
+      "DRS",
+      "ERS",
+      "KERS",
+      "ABS"
+    ],
+    "rightAnswers": [
+      "DRS"
+    ]
+  },
+  {
+    "id": "b8d90d30-0b82-4673-8e40-364872800d2a",
+    "text": "Co oznacza skrót DRS?",
+    "questionOpen": true,
+    "answers": [],
+    "rightAnswers": [
+      "Drag Reduction System",
+      "DRS - Drag Reduction System",
+      "System redukcji oporu powietrza",
+      "System zmniejszania oporu powietrza"
+    ]
+  },
+  {
+    "id": "bbaa1478-c10f-4bb4-a29c-45d2dc7fe2da",
+    "text": "Ile punktów otrzymuje zwycięzca wyścigu w obecnym systemie punktacji F1?",
+    "questionOpen": false,
+    "answers": [
+      "20",
+      "25",
+      "30",
+      "10"
+    ],
+    "rightAnswers": [
+      "25"
+    ]
+  },
+  {
+    "id": "1e35af8e-60ee-427b-9d9b-9bb0062eecb7",
+    "text": "Ile punktów otrzymuje kierowca za najszybsze okrążenie wyścigu, jeśli zajmie miejsce w pierwszej dziesiątce?",
+    "questionOpen": false,
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "rightAnswers": [
+      "1"
+    ]
+  },
+  {
+    "id": "e995ae26-f152-445b-96c0-fe9f08d0bfca",
+    "text": "Jak nazywa się flaga sygnalizująca koniec wyścigu?",
+    "questionOpen": false,
+    "answers": [
+      "flaga w kratkę",
+      "flaga żółta",
+      "flaga czerwona",
+      "flaga niebieska"
+    ],
+    "rightAnswers": [
+      "flaga w kratkę"
+    ]
+  },
+  {
+    "id": "b69c2ee5-f83b-4b33-8b8f-f1782bd0d777",
+    "text": "Co oznacza żółta flaga podczas wyścigu?",
+    "questionOpen": true,
+    "answers": [],
+    "rightAnswers": [
+      "Niebezpieczeństwo na torze, zakaz wyprzedzania",
+      "Niebezpieczeństwo na torze",
+      "Zakaz wyprzedzania",
+      "Ostrzeżenie o niebezpieczeństwie na torze i zakaz wyprzedzania"
+    ]
+  },
+  {
+    "id": "a472ca2b-6600-4da6-bdea-bf924cadcfe0",
+    "text": "Jak nazywa się pierwsza pozycja startowa na starcie wyścigu?",
+    "questionOpen": false,
+    "answers": [
+      "pole position",
+      "grid position",
+      "front row",
+      "box start"
+    ],
+    "rightAnswers": [
+      "pole position"
+    ]
+  },
+  {
+    "id": "c7c63802-37ff-4a60-bc69-60a8417fd186",
+    "text": "Który zespół ma najwięcej tytułów konstruktorów w historii F1?",
+    "questionOpen": false,
+    "answers": [
+      "Ferrari",
+      "McLaren",
+      "Williams",
+      "Mercedes"
+    ],
+    "rightAnswers": [
+      "Ferrari"
+    ]
+  },
+  {
+    "id": "48e131fb-e894-4c5d-a2f0-f9cee690f410",
+    "text": "W którym mieście ma swoją siedzibę zespół Mercedes F1?",
+    "questionOpen": false,
+    "answers": [
+      "Brackley",
+      "Woking",
+      "Maranello",
+      "Grove"
+    ],
+    "rightAnswers": [
+      "Brackley"
+    ]
+  },
+  {
+    "id": "c7ef7f97-470a-44dc-a1fe-b574182db87e",
+    "text": "W którym mieście ma swoją siedzibę zespół McLaren?",
+    "questionOpen": false,
+    "answers": [
+      "Woking",
+      "Brackley",
+      "Milton Keynes",
+      "Enstone"
+    ],
+    "rightAnswers": [
+      "Woking"
+    ]
+  },
+  {
+    "id": "04075b70-f4a0-43e9-a3b8-1827fbe6d487",
+    "text": "W którym mieście urodził się Robert Kubica?",
+    "questionOpen": false,
+    "answers": [
+      "Kraków",
+      "Warszawa",
+      "Wrocław",
+      "Poznań"
+    ],
+    "rightAnswers": [
+      "Kraków"
+    ]
+  },
+  {
+    "id": "73683d78-9322-4cd1-8513-0cdff949530f",
+    "text": "W którym roku urodził się Robert Kubica?",
+    "questionOpen": false,
+    "answers": [
+      "1982",
+      "1983",
+      "1984",
+      "1985"
+    ],
+    "rightAnswers": [
+      "1984"
+    ]
+  },
+  {
+    "id": "01b5ee48-2b36-4c9d-8446-599431d1ec12",
+    "text": "Dla jakiego zespołu Robert Kubica odniósł swoje jedyne zwycięstwo w Formule 1?",
+    "questionOpen": false,
+    "answers": [
+      "BMW Sauber",
+      "Renault",
+      "Williams",
+      "Sauber"
+    ],
+    "rightAnswers": [
+      "BMW Sauber"
+    ]
+  },
+  {
+    "id": "ec0526aa-1ba0-4151-92dc-a33c0a7b8585",
+    "text": "Na jakim torze Robert Kubica wygrał swój jedyny wyścig w F1?",
+    "questionOpen": false,
+    "answers": [
+      "Circuit Gilles Villeneuve (Kanada)",
+      "Silverstone",
+      "Monza",
+      "Hockenheimring"
+    ],
+    "rightAnswers": [
+      "Circuit Gilles Villeneuve (Kanada)"
+    ]
+  },
+  {
+    "id": "b81f51f7-48bf-4869-a658-a87d24b5d61b",
+    "text": "W którym roku Robert Kubica odniósł swoje jedyne zwycięstwo w Formule 1?",
+    "questionOpen": false,
+    "answers": [
+      "2006",
+      "2007",
+      "2008",
+      "2009"
+    ],
+    "rightAnswers": [
+      "2008"
+    ]
+  },
+  {
+    "id": "3bcad00c-d9c0-4c5e-b3e3-3ddde069c1b1",
+    "text": "Jakiego rodzaju wypadkowi uległ Robert Kubica w lutym 2011 roku, co na kilka lat wykluczyło go z F1?",
+    "questionOpen": false,
+    "answers": [
+      "wypadek rajdowy",
+      "wypadek na torze F1",
+      "wypadek testowy F1",
+      "wypadek motocyklowy"
+    ],
+    "rightAnswers": [
+      "wypadek rajdowy"
+    ]
+  },
+  {
+    "id": "05373196-eab2-4b7b-aa29-fc1ad202651a",
+    "text": "Do jakiego zespołu Robert Kubica wrócił jako kierowca wyścigowy w Formule 1 w 2019 roku?",
+    "questionOpen": false,
+    "answers": [
+      "Williams",
+      "Renault",
+      "Alfa Romeo",
+      "Haas"
+    ],
+    "rightAnswers": [
+      "Williams"
+    ]
+  },
+  {
+    "id": "7e37dafe-37ad-45d5-b33e-0c23bd57f91c",
+    "text": "W jakich innych seriach wyścigowych, poza F1, startował Robert Kubica?",
+    "questionOpen": false,
+    "answers": [
+      "WRC (Rajdowe Mistrzostwa Świata)",
+      "WEC (Wyścigi Długodystansowe)",
+      "DTM",
+      "MotoGP"
+    ],
+    "rightAnswers": [
+      "WRC (Rajdowe Mistrzostwa Świata)",
+      "WEC (Wyścigi Długodystansowe)",
+      "DTM"
+    ]
+  },
+  {
+    "id": "c1415aad-c74a-47f2-a213-45d72f05f815",
+    "text": "Robert Kubica jest jedynym Polakiem, który odniósł zwycięstwo w wyścigu Formuły 1 - prawda czy fałsz?",
+    "questionOpen": false,
+    "answers": [
+      "Prawda",
+      "Fałsz"
+    ],
+    "rightAnswers": [
+      "Prawda"
+    ]
+  },
+  {
+    "id": "e919ebf6-ba6c-4053-86ba-6e5420e0c1ed",
+    "text": "Dla jakiego francuskiego zespołu Robert Kubica ścigał się w sezonie 2010?",
+    "questionOpen": false,
+    "answers": [
+      "Renault",
+      "Alpine",
+      "Ligier",
+      "Prost"
+    ],
+    "rightAnswers": [
+      "Renault"
+    ]
+  },
+  {
+    "id": "97c811f7-1bed-4028-91a9-7c0fe147f3ec",
+    "text": "Jakie było najlepsze miejsce Roberta Kubicy w klasyfikacji generalnej kierowców Formuły 1 (sezon 2008)?",
+    "questionOpen": true,
+    "answers": [],
+    "rightAnswers": [
+      "4 miejsce",
+      "czwarte miejsce",
+      "P4",
+      "4.",
+      "4"
+    ]
+  },
+  {
+    "id": "fe4c1023-6e13-45bc-86ad-5013ec6833b5",
+    "text": "Jaki numer startowy nosił Robert Kubica po powrocie do Formuły 1 w zespole Williams?",
+    "questionOpen": false,
+    "answers": [
+      "88",
+      "7",
+      "77",
+      "3"
+    ],
+    "rightAnswers": [
+      "88"
+    ]
+  },
+  {
+    "id": "c6c04631-2672-488a-aafd-77e861343947",
+    "text": "Który słynny brazylijski kierowca zginął podczas Grand Prix San Marino w 1994 roku?",
+    "questionOpen": false,
+    "answers": [
+      "Ayrton Senna",
+      "Nelson Piquet",
+      "Emerson Fittipaldi",
+      "Rubens Barrichello"
+    ],
+    "rightAnswers": [
+      "Ayrton Senna"
+    ]
+  },
+  {
+    "id": "8b1464c8-7be8-4493-a658-84a6ac6559a5",
+    "text": "Który kierowca zginął w wypadku podczas kwalifikacji do tego samego Grand Prix San Marino w 1994 roku?",
+    "questionOpen": true,
+    "answers": [],
+    "rightAnswers": [
+      "Roland Ratzenberger",
+      "Ratzenberger"
+    ]
+  },
+  {
+    "id": "fd344e69-6609-4bed-b622-0cf4d02c4d98",
+    "text": "Który kierowca przeżył poważny wypadek i pożar bolidu podczas GP Niemiec w 1976 roku na torze Nürburgring?",
+    "questionOpen": false,
+    "answers": [
+      "Niki Lauda",
+      "James Hunt",
+      "Clay Regazzoni",
+      "Jody Scheckter"
+    ],
+    "rightAnswers": [
+      "Niki Lauda"
+    ]
+  },
+  {
+    "id": "1cf87fce-bbbe-4ec9-8777-98fd823e21c5",
+    "text": "Kto był głównym rywalem Niki Laudy w słynnym pojedynku o tytuł w sezonie 1976?",
+    "questionOpen": false,
+    "answers": [
+      "James Hunt",
+      "Alan Jones",
+      "Mario Andretti",
+      "Carlos Reutemann"
+    ],
+    "rightAnswers": [
+      "James Hunt"
+    ]
+  },
+  {
+    "id": "dc73e0a5-9173-46ac-bd6d-7ba0b2b25adb",
+    "text": "Jak nazywa się słynny tor w Belgii, znany między innymi z zakrętu Eau Rouge?",
+    "questionOpen": false,
+    "answers": [
+      "Spa-Francorchamps",
+      "Zandvoort",
+      "Nürburgring",
+      "Hockenheimring"
+    ],
+    "rightAnswers": [
+      "Spa-Francorchamps"
+    ]
+  },
+  {
+    "id": "00742c90-45be-4577-bc90-7306c833b958",
+    "text": "Jak nazywa się włoski tor Grand Prix Włoch, zwany 'Świątynią Prędkości'?",
+    "questionOpen": false,
+    "answers": [
+      "Monza",
+      "Imola",
+      "Mugello",
+      "Vallelunga"
+    ],
+    "rightAnswers": [
+      "Monza"
+    ]
+  },
+  {
+    "id": "a37e2f67-d5ce-4a41-8eee-84e11dffc053",
+    "text": "Na jakim torze odbywa się Grand Prix Wielkiej Brytanii?",
+    "questionOpen": false,
+    "answers": [
+      "Silverstone",
+      "Brands Hatch",
+      "Donington Park",
+      "Aintree"
+    ],
+    "rightAnswers": [
+      "Silverstone"
+    ]
+  },
+  {
+    "id": "ca6a7cb1-ec7d-4f09-b2ac-19c210c5e120",
+    "text": "Na jakim torze odbywa się Grand Prix Japonii?",
+    "questionOpen": false,
+    "answers": [
+      "Suzuka",
+      "Fuji Speedway",
+      "Okayama",
+      "Twin Ring Motegi"
+    ],
+    "rightAnswers": [
+      "Suzuka"
+    ]
+  },
+  {
+    "id": "bdf98c47-17b2-4f42-b866-2ede3ec6deac",
+    "text": "Na jakim torze odbywa się Grand Prix Brazylii?",
+    "questionOpen": false,
+    "answers": [
+      "Autódromo José Carlos Pace (Interlagos)",
+      "Jacarepaguá",
+      "Autódromo Internacional Nelson Piquet",
+      "Circuito de Tarumã"
+    ],
+    "rightAnswers": [
+      "Autódromo José Carlos Pace (Interlagos)"
+    ]
+  },
+  {
+    "id": "697e940e-00e2-4a87-ad58-6f91f2c5fbb4",
+    "text": "Jak nazywa się uliczny tor w Baku, na którym odbywa się Grand Prix Azerbejdżanu?",
+    "questionOpen": false,
+    "answers": [
+      "Baku City Circuit",
+      "Sochi Autodrom",
+      "Istanbul Park",
+      "Marina Bay Street Circuit"
+    ],
+    "rightAnswers": [
+      "Baku City Circuit"
+    ]
+  },
+  {
+    "id": "16eed99f-108d-4910-bdae-0e9c3d00cff7",
+    "text": "W którym kraju znajduje się tor Circuit of the Americas (COTA)?",
+    "questionOpen": false,
+    "answers": [
+      "USA",
+      "Meksyk",
+      "Kanada",
+      "Brazylia"
+    ],
+    "rightAnswers": [
+      "USA"
+    ]
+  },
+  {
+    "id": "62216232-7efb-414e-8c05-60596eda36d8",
+    "text": "Jak nazywa się tor, na którym odbywa się finałowy zwykle Grand Prix Abu Zabi?",
+    "questionOpen": false,
+    "answers": [
+      "Yas Marina Circuit",
+      "Losail International Circuit",
+      "Bahrain International Circuit",
+      "Marina Bay Street Circuit"
+    ],
+    "rightAnswers": [
+      "Yas Marina Circuit"
+    ]
+  },
+  {
+    "id": "80d68f16-b589-4f5e-8a2e-8d8ad86a4fb3",
+    "text": "Który zespół zdominował sezony 2014-2020, zdobywając siedem kolejnych tytułów konstruktorów?",
+    "questionOpen": false,
+    "answers": [
+      "Mercedes",
+      "Red Bull",
+      "Ferrari",
+      "McLaren"
+    ],
+    "rightAnswers": [
+      "Mercedes"
+    ]
+  },
+  {
+    "id": "3f055ff7-2a8a-4ae8-be5d-3ed7be0a12a2",
+    "text": "Który zespół zdominował sezony 2021-2024 z Maxem Verstappenem?",
+    "questionOpen": false,
+    "answers": [
+      "Red Bull Racing",
+      "Mercedes",
+      "Ferrari",
+      "McLaren"
+    ],
+    "rightAnswers": [
+      "Red Bull Racing"
+    ]
+  },
+  {
+    "id": "08b985a0-7952-41ee-9922-75a72d7e88fc",
+    "text": "Ile tytułów mistrza świata zdobył Max Verstappen do końca sezonu 2024?",
+    "questionOpen": false,
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "rightAnswers": [
+      "4"
+    ]
+  },
+  {
+    "id": "7220b985-a2ac-47aa-a3c6-c21f3541d9d3",
+    "text": "Jakiej narodowości jest Max Verstappen?",
+    "questionOpen": false,
+    "answers": [
+      "holenderskiej",
+      "belgijskiej",
+      "niemieckiej",
+      "austriackiej"
+    ],
+    "rightAnswers": [
+      "holenderskiej"
+    ]
+  },
+  {
+    "id": "097de1ff-822a-4463-8c8f-d6308b3d8091",
+    "text": "Jakiej narodowości jest Fernando Alonso?",
+    "questionOpen": false,
+    "answers": [
+      "hiszpańskiej",
+      "portugalskiej",
+      "włoskiej",
+      "brazylijskiej"
+    ],
+    "rightAnswers": [
+      "hiszpańskiej"
+    ]
+  },
+  {
+    "id": "8672c381-9d43-4d4f-8535-448fd0f24339",
+    "text": "Ile tytułów mistrzowskich zdobył Fernando Alonso?",
+    "questionOpen": false,
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "rightAnswers": [
+      "2"
+    ]
+  },
+  {
+    "id": "bebb4764-6a85-4c69-863e-f7e337c7bd1d",
+    "text": "W jakich latach Fernando Alonso zdobył swoje tytuły mistrzowskie?",
+    "questionOpen": false,
+    "answers": [
+      "2005 i 2006",
+      "2006 i 2007",
+      "2004 i 2005",
+      "2005 i 2007"
+    ],
+    "rightAnswers": [
+      "2005 i 2006"
+    ]
+  },
+  {
+    "id": "ae9237da-910e-44b6-bbe5-604838b7bf34",
+    "text": "Z jakim zespołem Fernando Alonso zdobył swoje dwa tytuły mistrzowskie?",
+    "questionOpen": false,
+    "answers": [
+      "Renault",
+      "McLaren",
+      "Ferrari",
+      "Williams"
+    ],
+    "rightAnswers": [
+      "Renault"
+    ]
+  },
+  {
+    "id": "afa390cf-37b9-40c3-97ea-f237592007e3",
+    "text": "Który kierowca zdobywał tytuły mistrzowskie z aż czterema różnymi zespołami?",
+    "questionOpen": false,
+    "answers": [
+      "Juan Manuel Fangio",
+      "Michael Schumacher",
+      "Niki Lauda",
+      "Alain Prost"
+    ],
+    "rightAnswers": [
+      "Juan Manuel Fangio"
+    ]
+  },
+  {
+    "id": "a9de80f1-3da8-4c26-a7ea-dca05a2b6978",
+    "text": "Z iloma różnymi zespołami tytuły mistrzowskie zdobył Alain Prost?",
+    "questionOpen": false,
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "rightAnswers": [
+      "2"
+    ]
+  },
+  {
+    "id": "5c35d01a-4510-4cf4-b1d9-7d942e5c7400",
+    "text": "Ile razy tytuł mistrzowski zdobył Alain Prost?",
+    "questionOpen": false,
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "rightAnswers": [
+      "4"
+    ]
+  },
+  {
+    "id": "959d146f-85b8-4282-b584-62a6461eb7f2",
+    "text": "Jak nazywano słynną rywalizację Ayrtona Senny i Alaina Prosta w zespole McLaren pod koniec lat 80.?",
+    "questionOpen": false,
+    "answers": [
+      "Wojna Senna–Prost",
+      "Bitwa o Monako",
+      "Duel Champions",
+      "Rywalizacja Stulecia"
+    ],
+    "rightAnswers": [
+      "Wojna Senna–Prost"
+    ]
+  },
+  {
+    "id": "5cfac2f4-7e3a-4c9a-8387-91976ec2db0c",
+    "text": "W którym roku kolizja Senny i Prosta na torze Suzuka przypieczętowała tytuł mistrzowski dla Senny?",
+    "questionOpen": false,
+    "answers": [
+      "1988",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "rightAnswers": [
+      "1990"
+    ]
+  },
+  {
+    "id": "dc48635d-8a5b-43d4-8766-f7e2148d6b16",
+    "text": "Do jakiego koncernu należy obecnie zespół Alpine F1 (dawniej Renault)?",
+    "questionOpen": false,
+    "answers": [
+      "Renault Group",
+      "Stellantis",
+      "Red Bull GmbH",
+      "Mercedes-Benz"
+    ],
+    "rightAnswers": [
+      "Renault Group"
+    ]
+  },
+  {
+    "id": "4acb938a-936f-4e90-9de8-653735363c37",
+    "text": "Jak wcześniej (przed 2021 rokiem) nazywał się zespół Aston Martin F1?",
+    "questionOpen": false,
+    "answers": [
+      "Racing Point",
+      "Force India",
+      "Jordan",
+      "Sahara Force India"
+    ],
+    "rightAnswers": [
+      "Racing Point"
+    ]
+  },
+  {
+    "id": "f25aaebc-3d70-4105-af43-8bdfd186706f",
+    "text": "Który zespół zmienił nazwę na Alpine w 2021 roku?",
+    "questionOpen": false,
+    "answers": [
+      "Renault",
+      "Lotus",
+      "Racing Point",
+      "Toro Rosso"
+    ],
+    "rightAnswers": [
+      "Renault"
+    ]
+  },
+  {
+    "id": "b254903b-2477-4d9c-b08f-0e9da4a2e02c",
+    "text": "Jak wcześniej (do 2019 roku) nazywał się zespół, który później startował jako AlphaTauri, a obecnie jako RB?",
+    "questionOpen": false,
+    "answers": [
+      "Toro Rosso",
+      "Minardi",
+      "Arrows",
+      "Jordan"
+    ],
+    "rightAnswers": [
+      "Toro Rosso"
+    ]
+  },
+  {
+    "id": "1f2d5e77-313f-4302-839c-498e5c00e412",
+    "text": "Który producent opon jest jedynym dostawcą opon w F1 od 2011 roku?",
+    "questionOpen": false,
+    "answers": [
+      "Pirelli",
+      "Michelin",
+      "Bridgestone",
+      "Goodyear"
+    ],
+    "rightAnswers": [
+      "Pirelli"
+    ]
+  },
+  {
+    "id": "16405224-d7d9-43b7-84bb-cf93c7a8629f",
+    "text": "Który producent opon dostarczał opony w F1 w latach 2007-2010, przed erą Pirelli?",
+    "questionOpen": false,
+    "answers": [
+      "Bridgestone",
+      "Michelin",
+      "Goodyear",
+      "Continental"
+    ],
+    "rightAnswers": [
+      "Bridgestone"
+    ]
+  },
+  {
+    "id": "beb2f7aa-adef-43e9-b248-6402e8c59e11",
+    "text": "Ile opon standardowo zmienia się podczas typowego pit-stopu w F1?",
+    "questionOpen": false,
+    "answers": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "rightAnswers": [
+      "4"
+    ]
+  },
+  {
+    "id": "1ac3992e-5ed4-4b24-939e-38d91110b655",
+    "text": "Jak nazywa się obszar na torze, w którym odbywają się pit-stopy?",
+    "questionOpen": false,
+    "answers": [
+      "aleja serwisowa (pit lane)",
+      "strefa DRS",
+      "tor główny",
+      "parking"
+    ],
+    "rightAnswers": [
+      "aleja serwisowa (pit lane)"
+    ]
+  },
+  {
+    "id": "2798a2c0-df7c-4d26-a85a-4d9872171851",
+    "text": "Na czym polega kara przejazdu przez aleję serwisową (drive-through penalty)?",
+    "questionOpen": true,
+    "answers": [],
+    "rightAnswers": [
+      "Kierowca musi przejechać przez pit lane bez zatrzymywania się i bez wymiany opon, z ograniczoną prędkością",
+      "Przejazd przez pit lane bez zatrzymywania się, z ograniczoną prędkością",
+      "Kara przejazdu przez pit lane bez postoju",
+      "Kierowca przejeżdża przez aleję serwisową z ograniczeniem prędkości, bez zatrzymywania się"
+    ]
+  },
+  {
+    "id": "227ef10a-ee46-4df8-904d-808535f3193a",
+    "text": "Jak nazywa się zasada nakładająca ograniczenia na zmiany w bolidzie pomiędzy kwalifikacjami a wyścigiem?",
+    "questionOpen": false,
+    "answers": [
+      "Parc fermé",
+      "DRS",
+      "ERS",
+      "Curfew"
+    ],
+    "rightAnswers": [
+      "Parc fermé"
+    ]
+  },
+  {
+    "id": "0518ea38-7b1e-48ed-b493-7b5b67ae9428",
+    "text": "Ile bolidów zazwyczaj startuje w wyścigu F1 przy pełnej stawce 10 zespołów?",
+    "questionOpen": false,
+    "answers": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "rightAnswers": [
+      "20"
+    ]
+  },
+  {
+    "id": "648b10ef-daa8-4ded-83e7-2c86675e0a9e",
+    "text": "Ile zespołów (konstruktorów) startowało w sezonie 2024 w Formule 1?",
+    "questionOpen": false,
+    "answers": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rightAnswers": [
+      "10"
+    ]
+  },
+  {
+    "id": "80500091-b5c0-431d-a86c-e63bf8e50e0e",
+    "text": "Jak nazywa się krótszy, dodatkowy wyścig rozgrywany w sobotę na wybranych weekendach od sezonu 2021?",
+    "questionOpen": false,
+    "answers": [
+      "Sprint",
+      "Super Qualifying",
+      "Shootout",
+      "Mini Grand Prix"
+    ],
+    "rightAnswers": [
+      "Sprint"
+    ]
+  },
+  {
+    "id": "4bb33c07-4fbb-4216-8482-976d91371c8a",
+    "text": "Jak nazywają się kwalifikacje wyznaczające siatkę startową do wyścigu sprinterskiego?",
+    "questionOpen": false,
+    "answers": [
+      "Sprint Shootout (Sprint Qualifying)",
+      "Super Pole",
+      "Q4",
+      "Shootout Race"
+    ],
+    "rightAnswers": [
+      "Sprint Shootout (Sprint Qualifying)"
+    ]
+  },
+  {
+    "id": "5caa10cb-cd73-45c8-a46e-4c793211d685",
+    "text": "Ile sesji kwalifikacyjnych (Q1, Q2, Q3) ma standardowy format kwalifikacji w F1?",
+    "questionOpen": false,
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "rightAnswers": [
+      "3"
+    ]
+  },
+  {
+    "id": "8e244712-f1e1-4ab5-8124-699281e3d2ff",
+    "text": "Ilu kierowców odpada po sesji Q1 w standardowych kwalifikacjach?",
+    "questionOpen": false,
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "rightAnswers": [
+      "5"
+    ]
+  },
+  {
+    "id": "72b48d0c-b065-4f3f-9a67-2c9313c4b3d9",
+    "text": "Jak nazywa się hybrydowy system odzyskiwania energii stosowany w bolidach F1 od 2014 roku?",
+    "questionOpen": false,
+    "answers": [
+      "ERS (Energy Recovery System)",
+      "KERS",
+      "DRS",
+      "ABS"
+    ],
+    "rightAnswers": [
+      "ERS (Energy Recovery System)"
+    ]
+  },
+  {
+    "id": "3f5a642c-0bb4-4c81-a632-e36595811495",
+    "text": "Jaka jest specyfikacja jednostki napędowej używanej w F1 od 2014 roku?",
+    "questionOpen": false,
+    "answers": [
+      "1.6 litra V6 turbo hybrydowy",
+      "2.4 litra V8",
+      "3.0 litra V10",
+      "3.5 litra V12"
+    ],
+    "rightAnswers": [
+      "1.6 litra V6 turbo hybrydowy"
+    ]
+  },
+  {
+    "id": "b4004277-c6ac-42ed-a593-9da5d8baa899",
+    "text": "Jaki silnik obowiązywał w F1 w latach 2006-2013, przed erą hybrydową?",
+    "questionOpen": false,
+    "answers": [
+      "2.4 litra V8",
+      "3.0 litra V10",
+      "1.6 litra V6",
+      "3.5 litra V12"
+    ],
+    "rightAnswers": [
+      "2.4 litra V8"
+    ]
+  },
+  {
+    "id": "701fb768-16ae-4a1e-bf23-e0a759ab5b3c",
+    "text": "Który kierowca ma rekord najwięcej zwycięstw w historii F1 (stan na koniec sezonu 2024)?",
+    "questionOpen": false,
+    "answers": [
+      "Lewis Hamilton",
+      "Michael Schumacher",
+      "Max Verstappen",
+      "Alain Prost"
+    ],
+    "rightAnswers": [
+      "Lewis Hamilton"
+    ]
+  },
+  {
+    "id": "40728ed8-bc6f-4416-b46b-998341695cc3",
+    "text": "Który kierowca ma rekord najwięcej pole position w historii F1?",
+    "questionOpen": false,
+    "answers": [
+      "Lewis Hamilton",
+      "Michael Schumacher",
+      "Ayrton Senna",
+      "Sebastian Vettel"
+    ],
+    "rightAnswers": [
+      "Lewis Hamilton"
+    ]
+  },
+  {
+    "id": "f6125641-349a-464c-bf2d-e5f45391e479",
+    "text": "Który zespół ma najwięcej zwycięstw w Grand Prix w historii F1?",
+    "questionOpen": false,
+    "answers": [
+      "Ferrari",
+      "McLaren",
+      "Mercedes",
+      "Williams"
+    ],
+    "rightAnswers": [
+      "Ferrari"
+    ]
+  },
+  {
+    "id": "e7c830f4-e84d-4d22-bd3e-3c19d2e7a6a9",
+    "text": "Grand Prix Monako jest jednym z trzech wyścigów tworzących nieformalną 'Potrójną Koronę Motorsportu'. Jakie są pozostałe dwa?",
+    "questionOpen": false,
+    "answers": [
+      "24h Le Mans i Indianapolis 500",
+      "Le Mans i Daytona 500",
+      "Indianapolis 500 i Daytona 500",
+      "Le Mans i Nürburgring 24h"
+    ],
+    "rightAnswers": [
+      "24h Le Mans i Indianapolis 500"
+    ]
+  },
+  {
+    "id": "e3994033-5838-488f-85e4-279bd289214c",
+    "text": "Który kierowca jako jedyny w historii wygrał wszystkie trzy wyścigi Potrójnej Korony Motorsportu?",
+    "questionOpen": false,
+    "answers": [
+      "Graham Hill",
+      "Mario Andretti",
+      "A.J. Foyt",
+      "Fernando Alonso"
+    ],
+    "rightAnswers": [
+      "Graham Hill"
+    ]
+  },
+  {
+    "id": "587abb1b-819d-4c29-b1f2-c8270e01bb1b",
+    "text": "Ile okrążeń liczy standardowo Grand Prix Monako?",
+    "questionOpen": false,
+    "answers": [
+      "78",
+      "58",
+      "66",
+      "70"
+    ],
+    "rightAnswers": [
+      "78"
+    ]
+  },
+  {
+    "id": "b392a212-6b3d-46be-bf5f-36fdab972389",
+    "text": "Jaki jest standardowy maksymalny dystans większości wyścigów F1?",
+    "questionOpen": false,
+    "answers": [
+      "około 305 km",
+      "około 200 km",
+      "około 400 km",
+      "około 500 km"
+    ],
+    "rightAnswers": [
+      "około 305 km"
+    ]
+  },
+  {
+    "id": "946a09ff-7237-4aa2-ac9a-6c65241e31fb",
+    "text": "Grand Prix Monako jest wyjątkiem od reguły dystansu - jaki jest jego łączny dystans?",
+    "questionOpen": false,
+    "answers": [
+      "około 260 km",
+      "305 km",
+      "200 km",
+      "350 km"
+    ],
+    "rightAnswers": [
+      "około 260 km"
+    ]
+  },
+  {
+    "id": "64908d4d-ba85-4168-8a82-53b279d47688",
+    "text": "Kto jest założycielem zespołu i marki Ferrari?",
+    "questionOpen": false,
+    "answers": [
+      "Enzo Ferrari",
+      "Gianni Agnelli",
+      "Luca di Montezemolo",
+      "Niki Lauda"
+    ],
+    "rightAnswers": [
+      "Enzo Ferrari"
+    ]
+  },
+  {
+    "id": "079ee7f7-94b9-4482-88a7-8806bc30e57a",
+    "text": "Kto był szefem zespołu (team principal) Red Bull Racing od 2005 do 2024 roku?",
+    "questionOpen": false,
+    "answers": [
+      "Christian Horner",
+      "Helmut Marko",
+      "Adrian Newey",
+      "Franz Tost"
+    ],
+    "rightAnswers": [
+      "Christian Horner"
+    ]
+  },
+  {
+    "id": "4f792e34-7778-4bce-9f6d-d3ea429e1ad5",
+    "text": "Kto jest wieloletnim, uznanym projektantem technicznym, który pracował m.in. dla Williams, McLaren i Red Bull?",
+    "questionOpen": false,
+    "answers": [
+      "Adrian Newey",
+      "Ross Brawn",
+      "Patrick Head",
+      "James Allison"
+    ],
+    "rightAnswers": [
+      "Adrian Newey"
+    ]
+  },
+  {
+    "id": "c6976800-88fa-41a3-a318-98e432a8c788",
+    "text": "Kto był szefem zespołu Benetton i Ferrari, a później założył własny zespół Brawn GP?",
+    "questionOpen": false,
+    "answers": [
+      "Ross Brawn",
+      "Flavio Briatore",
+      "Jean Todt",
+      "Frank Williams"
+    ],
+    "rightAnswers": [
+      "Ross Brawn"
+    ]
+  },
+  {
+    "id": "9402e0bf-8aa3-45e0-a743-340f88363c9f",
+    "text": "Zespół Brawn GP zdobył tytuł mistrzowski konstruktorów w swoim jedynym pełnym sezonie startów. W którym to było roku?",
+    "questionOpen": false,
+    "answers": [
+      "2009",
+      "2008",
+      "2010",
+      "2007"
+    ],
+    "rightAnswers": [
+      "2009"
+    ]
+  },
+  {
+    "id": "92b0d48c-809d-475b-8c37-ea1f9b103662",
+    "text": "Kto zdobył tytuł mistrza świata kierowców w 2009 roku z zespołem Brawn GP?",
+    "questionOpen": false,
+    "answers": [
+      "Jenson Button",
+      "Rubens Barrichello",
+      "Sebastian Vettel",
+      "Mark Webber"
+    ],
+    "rightAnswers": [
+      "Jenson Button"
+    ]
+  },
+  {
+    "id": "04cfb09d-e616-47c1-9a21-f74dc1d06da0",
+    "text": "Który zespół przejął aktywa Brawn GP po sezonie 2009?",
+    "questionOpen": false,
+    "answers": [
+      "Mercedes",
+      "Red Bull",
+      "Renault",
+      "Force India"
+    ],
+    "rightAnswers": [
+      "Mercedes"
+    ]
+  },
+  {
+    "id": "9b7c1e79-78b8-4f1d-b882-0100e3274286",
+    "text": "Czy Polska organizowała kiedykolwiek Grand Prix Formuły 1 w ramach mistrzostw świata?",
+    "questionOpen": false,
+    "answers": [
+      "Tak",
+      "Nie"
+    ],
+    "rightAnswers": [
+      "Nie"
+    ]
+  },
+  {
+    "id": "c7878d23-f4ad-4e5d-b7eb-5fd66e96e6b5",
+    "text": "Dla jakiego zespołu Robert Kubica pełnił rolę kierowcy rezerwowego w sezonach 2020-2021?",
+    "questionOpen": false,
+    "answers": [
+      "Alfa Romeo Racing",
+      "Williams",
+      "Haas",
+      "Aston Martin"
+    ],
+    "rightAnswers": [
+      "Alfa Romeo Racing"
+    ]
+  },
+  {
+    "id": "0bec9c1f-0c03-4304-b2e0-02c270eba95a",
+    "text": "Jak nazywał się rajd, podczas którego Robert Kubica uległ poważnemu wypadkowi w lutym 2011 roku?",
+    "questionOpen": true,
+    "answers": [],
+    "rightAnswers": [
+      "Ronde di Andora",
+      "Rajd Ronde di Andora",
+      "Ronde di Andora Rally"
+    ]
+  },
+  {
+    "id": "7d1c84a3-1b05-4f85-8644-79e7ee106ddc",
+    "text": "Jakim samochodem Robert Kubica najczęściej startował w Rajdowych Mistrzostwach Świata (WRC)?",
+    "questionOpen": false,
+    "answers": [
+      "Ford Fiesta WRC",
+      "Citroën C3 WRC",
+      "Škoda Fabia",
+      "Volkswagen Polo"
+    ],
+    "rightAnswers": [
+      "Ford Fiesta WRC"
+    ]
+  },
+  {
+    "id": "2874da9b-1809-4bd1-87b4-ff87d241b518",
+    "text": "Który kraj jako pierwszy zorganizował nocny Grand Prix (pierwszy wyścig rozgrywany całkowicie po zmroku)?",
+    "questionOpen": false,
+    "answers": [
+      "Singapur",
+      "Bahrajn",
+      "Abu Zabi",
+      "Katar"
+    ],
+    "rightAnswers": [
+      "Singapur"
+    ]
+  },
+  {
+    "id": "ec225cbc-bdbe-44e5-8ad1-572332a80044",
+    "text": "W którym roku odbył się pierwszy nocny Grand Prix Singapuru?",
+    "questionOpen": false,
+    "answers": [
+      "2008",
+      "2009",
+      "2007",
+      "2010"
+    ],
+    "rightAnswers": [
+      "2008"
+    ]
+  },
+  {
+    "id": "ef607f0f-abff-444b-9fa9-08d79d70aaab",
+    "text": "Jak nazywa się kara doliczana do czasu wyścigu kierowcy za wykroczenie, alternatywna do kary przejazdu przez pit lane?",
+    "questionOpen": false,
+    "answers": [
+      "kara czasowa (time penalty)",
+      "kara dyskwalifikacji",
+      "kara startu z tyłu stawki",
+      "kara finansowa"
+    ],
+    "rightAnswers": [
+      "kara czasowa (time penalty)"
+    ]
+  },
+  {
+    "id": "304ca6f0-c0c2-4727-8103-0935b309fa28",
+    "text": "Jak nazywa się międzynarodowy organ zarządzający i regulujący Formułę 1 oraz inne serie motorsportowe?",
+    "questionOpen": false,
+    "answers": [
+      "FIA",
+      "FOM",
+      "FISA",
+      "ACO"
+    ],
+    "rightAnswers": [
+      "FIA"
+    ]
+  },
+  {
+    "id": "441152f7-b116-484f-b3ae-c60cef1a2503",
+    "text": "Jak nazywa się podmiot odpowiedzialny za komercyjne zarządzanie prawami do Formuły 1?",
+    "questionOpen": false,
+    "answers": [
+      "Formula One Management (FOM)",
+      "FIA",
+      "CVC Capital Partners",
+      "ACO"
+    ],
+    "rightAnswers": [
+      "Formula One Management (FOM)"
+    ]
+  }
+]

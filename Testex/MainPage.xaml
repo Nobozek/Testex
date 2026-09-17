@@ -3,9 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Testex.MainPage">
 
-    <ScrollView>
-        <StackLayout Orientation="Vertical">
-            
+    <ScrollView Background="#0f0029">
+        <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Testex" FontSize="150" FontAttributes="Bold" TextColor="ForestGreen" HorizontalOptions="Center"/>
+            <Label Text="Temat: F1" FontSize="25" TextColor="ForestGreen" HorizontalOptions="Center"/>
+            <Button Text="Zacznij" Clicked="Button_Clicked" Background="#190045" BorderColor="DarkGreen" BorderWidth="5" TextColor="DeepPink" FontSize="30" FontAttributes="Bold" Margin="30, 25"/>
         </StackLayout>
     </ScrollView>
 
