@@ -2,11 +2,23 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Testex.TestPage"
-             Title="TestPage">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             Title="TestPage"
+             Background="#0f0029">
+    <StackLayout Orientation="Vertical" Margin="50" HorizontalOptions="Center" VerticalOptions="Center" RadioButtonGroup.GroupName="AnswerGroup" RadioButtonGroup.SelectedValue="{Binding SelectedAnswer}">
+        <Label x:Name="questionLabel" Text="{Binding CurrentQuestion.Text}" TextColor="Red" FontSize="20"/>
+        
+        <!--closed questions-->
+        <CollectionView ItemsSource="{Binding CurrentQuestion.Answers}" IsVisible="{Binding CurrentQuestion.QuestionOpen, Converter={StaticResource InvertedBoolConverter}}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <RadioButton Content="{Binding .}" Value="{Binding .}"/>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <!--open questions-->
+        <Entry x:Name="openAnswerEntry" IsVisible="{Binding CurrentQuestion.QuestionOpen}" Placeholder="Wpisz odpowiedź..."/>
+
+        <Button Text="Dalej" Clicked="NextQuestion" Background="#190045" BorderColor="DarkGreen" BorderWidth="5" TextColor="DeepPink" FontSize="30" FontAttributes="Bold" Margin="30, 25"/>
+    </StackLayout>
 </ContentPage>

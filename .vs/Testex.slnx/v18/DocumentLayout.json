@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\granm\\source\\repos\\Testex\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|c:\\users\\granm\\source\\repos\\testex\\testex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|solutionrelative:testex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|c:\\users\\granm\\source\\repos\\testex\\testex\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|solutionrelative:testex\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|c:\\users\\granm\\source\\repos\\testex\\testex\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|solutionrelative:testex\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|c:\\users\\granm\\source\\repos\\testex\\testex\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|solutionrelative:testex\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|c:\\users\\granm\\source\\repos\\testex\\testex\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|solutionrelative:testex\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|c:\\users\\granm\\source\\repos\\testex\\testex\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|solutionrelative:testex\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|c:\\users\\granm\\source\\repos\\testex\\testex\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|solutionrelative:testex\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|c:\\users\\granm\\source\\repos\\testex\\testex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|solutionrelative:testex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|c:\\users\\granm\\source\\repos\\testex\\testex\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|solutionrelative:testex\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|c:\\users\\granm\\source\\repos\\testex\\testex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAF461C-B93B-B3D9-923E-F5F9A64F1CC5}|Testex\\Testex.csproj|solutionrelative:testex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,38 +33,51 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 504,
-          "SelectedChildIndex": 4,
+          "DockedHeight": 610,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Testex\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\Models\\Question.cs",
+              "RelativeToolTip": "Testex\\Models\\Question.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:05:47.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TestPage.xaml",
               "DocumentMoniker": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\TestPage.xaml",
               "RelativeDocumentMoniker": "Testex\\TestPage.xaml",
               "ToolTip": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\TestPage.xaml",
               "RelativeToolTip": "Testex\\TestPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-09-16T18:32:59.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TestPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\TestPage.xaml.cs",
               "RelativeDocumentMoniker": "Testex\\TestPage.xaml.cs",
               "ToolTip": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\TestPage.xaml.cs",
               "RelativeToolTip": "Testex\\TestPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-16T18:31:44.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\AppShell.xaml",
               "RelativeDocumentMoniker": "Testex\\AppShell.xaml",
@@ -77,46 +90,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\Models\\Question.cs",
-              "RelativeDocumentMoniker": "Testex\\Models\\Question.cs",
-              "ToolTip": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\Models\\Question.cs",
-              "RelativeToolTip": "Testex\\Models\\Question.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T13:05:47.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Testex\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\MainPage.xaml.cs",
               "RelativeToolTip": "Testex\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T12:59:17.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\MainPage.xaml",
               "RelativeDocumentMoniker": "Testex\\MainPage.xaml",
               "ToolTip": "C:\\Users\\granm\\source\\repos\\Testex\\Testex\\MainPage.xaml",
               "RelativeToolTip": "Testex\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-10T12:59:16.039Z"
+              "WhenOpened": "2026-09-10T12:59:16.039Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 200,
+          "DockedHeight": 94,
           "SelectedChildIndex": -1,
           "Children": [
             {

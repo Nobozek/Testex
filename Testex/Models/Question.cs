@@ -5,7 +5,7 @@ using System.Text.Json.Serialization;
 
 namespace Testex.Models
 {
-    internal class Question
+    public class Question
     {
         private string _text;
         private bool _questionOpen;
@@ -28,19 +28,21 @@ namespace Testex.Models
             _rightAnswers = rightAnswers;
         }
 
-        public int CheckAnswer(List<string> userAnswers)
+        public int CheckAnswer(List<string> userAnswers, int points)
         {
-            int points = 0;
+            int scored_points = 0;
 
-            foreach(var userAnswer in userAnswers)
+            foreach (var userAnswer in userAnswers)
             {
                 foreach (var answer in _rightAnswers)
                 {
-                    if (answer == userAnswer) points++;
+                    if (answer == userAnswer) scored_points++;
                 }
             }
 
-            if (_questionOpen) points *= 2;
+            if (_questionOpen) scored_points *= 2;
+
+            points += scored_points;
 
             return points;
         }
